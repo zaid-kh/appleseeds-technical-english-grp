@@ -1,0 +1,49 @@
+Web accessibility means that websites, tools, and technologies are 
+designed and developed so that people with disabilities can use them. More 
+specifically, people can:
+
+perceive, understand, navigate, and interact with the Web
+contribute to the Web
+Web accessibility encompasses all disabilities that affect access to the 
+Web, including:
+
+-auditory
+-cognitive
+-neurological
+-physical
+-speech
+-visual
+
+*Web accessibility also benefits people without disabilities, for example:
+
+-people using mobile phones, smart watches, smart TVs, and other devices 
+ with small screens, different input modes, etc.
+-older people with changing abilities due to ageing
+-people with “temporary disabilities” such as a broken arm or lost glasses
+-people with “situational limitations” such as in bright sunlight or in an 
+ environment where they cannot listen to audio
+-people using a slow Internet connection, or who have limited or expensive 
+ bandwidth
+
+this is an example how we can sempelize and make it more Semantic  input using a button element insted 
+of div , that will make it easiar way to enter and acces for people with 
+disabilty : 
+
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Semantic HTML</h1>
+<p>Semantic HTML means using correct HTML elements for their correct 
+purpose as much as possible.</p>
+<p>If you need a button, use the button element and not a div element:</p>
+
+<button>Report an Error</button>
+
+<div>Report an Error</div>
+
+<p>A button element has more suitable styling than a div, and it is 
+clickable by default.</p>
+
+</body>
+</html>
