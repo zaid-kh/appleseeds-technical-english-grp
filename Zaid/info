@@ -1,0 +1,29 @@
+WCAG or Web Accessability Guidlines are the set of guidlines curated by the W3 consortium to help people with disabilities browse the web as smooth as possible -when these guidlines are followed-.
+
+WCAG covers web sites, applications, and other digital content.
+
+There are three levels of conformance:
+
+	*Level A is the minimum level.
+	*Level AA includes all Level A and AA requirements. Many organizations strive to meet Level AA.
+	*Level AAA includes all Level A, AA, and AAA requirements.
+
+Main principles of WCAG include the following: 
+1) Perceivable
+	Information and user interface components must be presentable to users in ways they can perceive.
+For example: a person who is visually impaired has an interface that has text that describes images, which in turn can be listened to as voice.
+
+2) Operable
+	Visitors should be able to navigate through your website without any limitations around functionality or time.
+
+Example: requirement: Logical focus order (A)	
+	The "tabbing order" of focusable page features (e.g. links, buttons, form inputs) makes logical sense, meaning that the page is still usable by non-sighted/keyboard users.
+
+3) Understandable
+	Information and the operation of the user interface must be understandable.
+
+
+4) Robust
+	Content must be robust enough that it can be interpreted by a wide variety of user agents, including assistive technologies.
+
+
